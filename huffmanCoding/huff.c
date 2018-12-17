@@ -2,13 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include "minheap.h"
-// #include "btree.h"
-
-// typedef struct node {
-// 		int key;
-// 		int element;
-// } node_t;
-
 
 int main(int argc, char *argv[]) {
 
